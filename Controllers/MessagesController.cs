@@ -35,14 +35,13 @@
                 }
                 catch (ArgumentException e)
                 {
-                    message = "Did you upload an image? I'm more of a visual person. " +
-                        "Try sending me an image or an image URL";
+                    message = "Please send me an image or an image URL";
 
                     Trace.TraceError(e.ToString());
                 }
                 catch (Exception e)
                 {
-                    message = "Oops! Something went wrong. Try again later.";
+                    message = "Sorry... Error. Try again later.";
 
                     Trace.TraceError(e.ToString());
                 }
@@ -166,8 +165,7 @@
                         var connector = new ConnectorClient(new Uri(activity.ServiceUrl));
 
                         var response = activity.CreateReply();
-                        response.Text = "Hi! I am ImageCaption Bot. I can understand the content of any image" +
-                                        " and try to describe it as well as any human. Try sending me an image or an image URL.";
+                        response.Text = "Hey! I am Image Bot. Please send me an image or an image URL, and I will describe its conent as well as any human.";
 
                         await connector.Conversations.ReplyToActivityAsync(response);
                     }
