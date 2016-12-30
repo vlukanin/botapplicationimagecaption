@@ -41,7 +41,7 @@
                 }
                 catch (Exception e)
                 {
-                    message = "Sorry... Error. Try again later.";
+                    message = "Sorry... Error. Try again later." + "<br/>" + e.Message + "<br/>" + e.StackTrace;
 
                     Trace.TraceError(e.ToString());
                 }
