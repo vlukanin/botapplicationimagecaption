@@ -88,14 +88,10 @@
                 return await this.captionService.GetCaptionAsync(activity.Text);
             }
 
-            //TODO: temporary
-            if (activity.Text.StartsWith("@"))
+            //NOTE: temporary solution to support skype multi-user chat
+            if (TryExctratUrlFromText(activity.Text, out url))
             {
-                return "Result1:" + activity.Text;
-            }
-            else
-            {
-                return "Result2:" + activity.Text;
+                return await this.captionService.GetCaptionAsync(url);
             }
 
             // If we reach here then the activity is neither an image attachment nor an image URL.
@@ -136,6 +132,20 @@
             var regex = new Regex("^<a href=\"(?<href>[^\"]*)\">[^<]*</a>$", RegexOptions.IgnoreCase);
             url = regex.Matches(text).OfType<Match>().Select(m => m.Groups["href"].Value).FirstOrDefault();
             return url != null;
+        }
+
+        private bool TryExctratUrlFromText(string text, out string url)
+        {
+            var linkParser = new Regex(@"\b(?:https?://|www\.)\S+\b", RegexOptions.Compiled | RegexOptions.IgnoreCase);
+            var matchCollection = linkParser.Matches(text);
+            if (matchCollection.Count > 0)
+            {
+                url = matchCollection[0].Value;
+                return true;
+            }
+
+            url = null;
+            return false;
         }
 
 
