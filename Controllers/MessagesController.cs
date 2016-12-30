@@ -88,6 +88,16 @@
                 return await this.captionService.GetCaptionAsync(activity.Text);
             }
 
+            //TODO: temporary
+            if (activity.Text.StartsWith("@"))
+            {
+                return "Result1:" + activity.Text;
+            }
+            else
+            {
+                return "Result2:" + activity.Text;
+            }
+
             // If we reach here then the activity is neither an image attachment nor an image URL.
             throw new ArgumentException("The activity doesn't contain a valid image attachment or an image URL.");
         }
