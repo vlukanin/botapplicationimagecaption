@@ -39,3 +39,44 @@ D:\Work\DotNext 2016\Bot ApplicationImageCaption\bin\zh-hans\Microsoft.Bot.Build
 D:\Work\DotNext 2016\Bot ApplicationImageCaption\obj\Debug\ImageCaption.csprojResolveAssemblyReference.cache
 D:\Work\DotNext 2016\Bot ApplicationImageCaption\obj\Debug\ImageCaption.dll
 D:\Work\DotNext 2016\Bot ApplicationImageCaption\obj\Debug\ImageCaption.pdb
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ImageCaption.dll.config
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ImageCaption.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ImageCaption.pdb
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Autofac.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Chronic.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.Bot.Builder.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.Bot.Connector.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.ProjectOxford.Vision.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.Rest.ClientRuntime.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Newtonsoft.Json.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Net.Http.Formatting.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Web.Http.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Web.Http.WebHost.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Autofac.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.Bot.Builder.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.Bot.Connector.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\Newtonsoft.Json.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Net.Http.Formatting.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Web.Http.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\System.Web.Http.WebHost.xml
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\de-de\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\obj\Debug\ImageCaption.csprojResolveAssemblyReference.cache
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\obj\Debug\ImageCaption.dll
+D:\OLD-WORK-LAPTOP\d\Work\DotNext 2016\2017\botapplicationimagecaption\obj\Debug\ImageCaption.pdb
